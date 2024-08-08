@@ -1,4 +1,4 @@
-# Excersize 07. 비밀 언어 우비두비 단어 만들기
+# Exercise 07. 비밀 언어 우비두비 단어 만들기
 
 def ubbi_dudbbi(word):
     output = []

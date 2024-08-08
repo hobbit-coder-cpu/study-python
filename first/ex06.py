@@ -1,4 +1,4 @@
-# Excersize 06. 피그 라틴 문장 만들기
+# Exercise 06. 피그 라틴 문장 만들기
 
 def pig_latin(text):
     
